@@ -1826,7 +1826,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffe8ad;
+  background: #ee0dff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2823,6 +2823,9 @@ hr {
   #footer a {
     color: #eee;
   }
+}
+.site-title {
+  font-family: 'Papyrus', 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 .main-inner {
   margin-top: 60px;
