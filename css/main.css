@@ -1826,7 +1826,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff875c;
+  background: #690d66;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2825,7 +2825,7 @@ hr {
   }
 }
 .site-title {
-  font-family: 'Papyrus', "PingFang SC", sans-serif;
+  font-family: 'Comic Sans MS', 'Lobster Two', 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 .main-inner {
   margin-top: 60px;
